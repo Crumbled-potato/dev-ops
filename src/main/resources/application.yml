@@ -1,2 +1,8 @@
 server:
-  port: 8080
+  port: 80
+
+# 微信公众号配置信息
+# originalid：原始ID
+# appid：个人AppID
+# token：开通接口服务自定义设置
+#http://vr26zd.natappfree.cc/wx/portal/wx4f04e45b5e870e62
